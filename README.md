@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Daniel Teodoro Flores Mamani
 
-<!--
-**daniel-floresStr/daniel-floresStr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Sobre mí
 
-Here are some ideas to get you started:
+Soy estudiante de Ingenieria en Sistemas, y ya termine lo que es mi tercer semestre. 
+Me encanta trabajar con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Java**, **SQL**
+
+## 📫 Mis cuentas de referencia son:
+
+- 📧 Email: danieltfloresmamani@gmail.com
+- 📱 Celular: 68461212 
+
+## ⚡ Curiosidades
+- 🚀: Mi frase motivacional seria: si puedes imaginarlo, puedes programarlo
+- 🎮 Me gustan los videojuegos
+- 🎧 Siempre hago mis tareas con música 
+- 🧩 Me gustan los retos lógicos y rompecabezas
